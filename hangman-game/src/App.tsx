@@ -82,10 +82,7 @@ export default function App() {
       />
 
       <Footer>
-        created with 💙 by{" "}
-        <a href="https://szymondudka.xyz/" target="_blank">
-          Szymon Dudka
-        </a>
+        
       </Footer>
     </Container>
   );
